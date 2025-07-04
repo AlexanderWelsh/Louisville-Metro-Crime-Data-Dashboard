@@ -10,3 +10,5 @@
 * What are the top 5 commited crimes?
 * How many crimes are commited on each day of the week?
 * Where are the hotspots for crime in louisville?
+
+![image](https://github.com/user-attachments/assets/5c6bb2cf-f1f4-40a2-abaf-5b05ac492402)
